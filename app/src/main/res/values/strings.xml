@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+    <string-array name="drawer_list">
+        <item>Home</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Stores</item>
+
+    </string-array>
+
+    <string-array name="pizza">
+        <item>diavolo</item>
+        <item>funghi</item>
+
+    </string-array>
+
+    <string-array name="pasta">
+        <item>gdfvdfg</item>
+        <item>hgfhgfgf</item>
+
+    </string-array>
+
+    <string-array name="Stores">
+        <item>juhygtfredsfg</item>
+        <item>hgfdghgf</item>
+        <item>hgfghgtreyukjhgfd</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
